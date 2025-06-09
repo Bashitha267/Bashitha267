@@ -33,6 +33,8 @@
 </p>
 
 #### Currently Learning:
+- React
+- Node JS
 - React Native 📱
 - Machine Learning with Python 🤖
 - UI/UX Design 🎨
