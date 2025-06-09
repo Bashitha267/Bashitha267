@@ -14,7 +14,6 @@
 - 📱 Building cross-platform apps with **React Native**
 - 🤖 Exploring **Machine Learning & AI**
 - 💡 Passionate about startups and digital innovation
-- 🌱 Currently diving deeper into **Backend systems**, **Cloud deployment**, and **ML models**
 - 💬 Ask me about anything tech-related — I love to collaborate!
 
 ---
@@ -37,18 +36,11 @@
 - React Native 📱
 - Machine Learning with Python 🤖
 - UI/UX Design 🎨
-- Firebase, AWS & Cloud Tools ☁️
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashitha267&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashitha267&theme=radical" width="48%" />
-</p>
 
----
+
 
 ### 📫 Reach Me On
 
